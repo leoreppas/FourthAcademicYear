@@ -1,0 +1,5 @@
+# Varables that contain the user credentials to access Twitter APIself.
+ACCESS_TOKEN = "708307356862513154-uolDJwpHHfHcAwshCAyZZ95ydOsOdCb"
+ACCESS_TOKEN_SECRET = "h3Ti6zdQ3g6txNkUqK5sqvW5KQoC6ll9X4lO2XaYZQ2i7"
+CONSUMER_KEY = "rk3dOa2VJ988iJ8K44Hy6bq3G"
+CONSUMER_SECRET = "O3fAyHcsKoWuajX1MWy0pIJNeWdoE7MkOWznLHMJSsTjQcoYpV"
